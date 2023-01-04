@@ -1,0 +1,13 @@
+{
+    "model_version": "base_aug_sgd",
+
+    "learning_rate": 0.01,
+    "momentum": 0.9,
+    "weight_decay": 0.0005,
+    "batch_size": 8,
+    "num_epochs": 5,
+
+    "freeze_weights": false,
+    
+    "optimizer": "sgd"
+}
